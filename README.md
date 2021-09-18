@@ -10,7 +10,7 @@ Donor box has been removed from the main menu and the full screen pop up is (hop
 
 # Why did you do this?
 
-[Ehm, its complicated...](https://www.reddit.com/r/tf2/comments/mniqly/so_i_installed_zeeshud_and_is_it_possible_to_get/)
+[Ehm, It's complicated...](https://www.reddit.com/r/tf2/comments/mniqly/so_i_installed_zeeshud_and_is_it_possible_to_get/)
 I would suggest reading that with an archived version.
 
 ## Disclaimer
