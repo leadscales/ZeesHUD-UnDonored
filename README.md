@@ -14,4 +14,4 @@ Donor box has been removed from the main menu and the full screen pop up is (hop
 I would suggest reading that with an archived version.
 
 ## Disclaimer
-This project has a redditard licence, You have been warned.
+This project has a redditard license, You have been warned.
